@@ -5,15 +5,16 @@
   text-align: center;
 }
 .banner h1 {
-  color: #ffffff;
-  font-size: 40px;
-  text-shadow: 1px 1px 28px hsl(0, 0%, 100%);
+  color: #0099CC;
+  font-size: 45px;
+  text-shadow: 1px 1px 10px hsl(0, 0%, 100%);
 
 }
 
 .banner p {
-  color: white;
-  font-size: 24px;
-  text-shadow: 1px 1px 28px hsl(0, 0%, 100%);
+  color: #0099CC;
+  font-size: 32px;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px hsl(0, 0%, 100%);
 
 }
