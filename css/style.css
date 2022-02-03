@@ -1,0 +1,48 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500&family=Lato&family=Oswald:wght@500&family=Sora:wght@400;700&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/cards.css);
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Epilogue;
+  background-color: #e3f6ff;
+
+}
+
+h1, h2, h3 {
+  font-family: Sora;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+p {
+  font-family: Epilogue;
+  padding: 8px;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h2 {
+  text-align: center;
+  color: #0099CC;
+  font-size: 32px;
+}
+
+.footer {
+  text-align: center;
+  padding: 30px;
+  background-color: #FFC2C2;
+}

@@ -1,0 +1,36 @@
+.card {
+  width: 240px;
+  border-radius: 16px;
+  text-align: center;
+  padding: 16px;
+  border: 3px solid #7CEA9C;
+  background-color: #EBFAFF;
+  box-shadow: rgba(83, 99, 114, 0.2) 0px 8px 24px;
+
+
+}
+
+.cards a, h3 {
+  color: #E94F37;
+}
+
+
+.cards a:hover {
+  color: #FFC2C2;
+  transition: .5s;
+}
+
+.card img {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-top: 2px;
+
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
